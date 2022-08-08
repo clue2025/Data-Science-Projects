@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Projects for Data Science resume
+This is a repository for my entry-level portfolio for data science and engineering job applications.
